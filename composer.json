@@ -7,7 +7,7 @@
         "webflo/drupal-core-strict": "*"
     },
     "replace": {
-        "drupal/core-recommended:^9.5"
+        "drupal/core-recommended": "^9.5"
     },
     "require": {
         "drupal/core": "9.5.x-dev",
