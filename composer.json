@@ -1,5 +1,5 @@
 {
-    "name": "drupal/core-recommended",
+    "name": "hesco/drupal-core-recommended",
     "type": "metapackage",
     "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
     "license": "GPL-2.0-or-later",
