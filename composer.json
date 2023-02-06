@@ -6,6 +6,9 @@
     "conflict": {
         "webflo/drupal-core-strict": "*"
     },
+    replace: {
+        "drupal/core-recommended:^9.5"
+    },
     "require": {
         "drupal/core": "9.5.x-dev",
         "asm89/stack-cors": "~1.3.0",
@@ -18,7 +21,7 @@
         "guzzlehttp/promises": "~1.5.2",
         "guzzlehttp/psr7": "~1.9.0",
         "laminas/laminas-diactoros": "~2.14.0",
-        "laminas/laminas-escaper": "~2.9.0",
+        "laminas/laminas-escaper": "^2.9.0",
         "laminas/laminas-feed": "~2.17.0",
         "laminas/laminas-stdlib": "~3.11.0",
         "masterminds/html5": "~2.7.6",
