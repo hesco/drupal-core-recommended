@@ -6,7 +6,7 @@
     "conflict": {
         "webflo/drupal-core-strict": "*"
     },
-    replace: {
+    "replace": {
         "drupal/core-recommended:^9.5"
     },
     "require": {
